@@ -1,6 +1,6 @@
 # Stress-Me-Out
 
-A discord bot which helps in maintaining assignment deadlines and upcoming quizzes. Users can also subscribe to our reminder system to get a notification 2 hours before the submission. A daily reminder is also sent at 10 am. Admins of the server can assign supserusers who can add/modify/delete reminders. Users can see reminders on slash command and can subscribe to reminders.
+A discord bot which helps in maintaining assignment deadlines and upcoming quizzes. Users can also subscribe to our reminder system to get a notification 2 hours before the submission. A daily reminder is also sent at 10 am. Admins of the server can assign superusers who can add/modify/delete reminders. Users can see reminders on slash command and can subscribe to reminders.
 
 
 
